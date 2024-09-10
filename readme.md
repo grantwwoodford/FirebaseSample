@@ -33,7 +33,9 @@ Pre-built SDK from https://firebase.google.com/download/unity
 # Fetch this example from github
 
 git clone https://github.com/grantwwoodford/FirebaseSample.git
+
 cd FirebaseSample/
+
 git lfs pull
 
 # Run in Unity
